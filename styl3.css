@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: lightcoral;
+    font-family: cursive;
+}
+p{
+    color: lightcoral;
+    font-family: cursive;
+    font-size: 15px;
+}
+a:link{
+    color: #9ACD32;
+  }
+  a:visited{
+    color: #FF6347;
+  }
+  a{
+      text-decoration: none;
+  }
